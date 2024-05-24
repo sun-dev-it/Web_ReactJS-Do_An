@@ -1,3 +1,15 @@
+[](https://www.youtube.com/watch?v=jTwPjvQkNvE)
+
+
+
+
+
+
+
+
+
+
+
 npm install web3
 npm install @metamask/detect-provider
 
